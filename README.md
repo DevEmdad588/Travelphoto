@@ -1,4 +1,5 @@
-# Travel Photo AppThis is a simple Android app that displays a slideshow of travel photos with their corresponding place names.
+# Travel Photo App
+This is a simple Android app that displays a slideshow of travel photos with their corresponding place names.
 
 ## Features
 
